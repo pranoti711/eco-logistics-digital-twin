@@ -1,0 +1,27 @@
+
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local development files
+.vscode/
+.pydevice/
+
+
+
+# Environment and secrets
+.env
+*.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
